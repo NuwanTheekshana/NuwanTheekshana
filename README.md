@@ -1,4 +1,10 @@
-👋 Hi, I’m @NuwanTheekshana
+<h3>
+  👋 Hi, I’m @NuwanTheekshana
+</h3>
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/51254891/172062723-24fa70bd-0174-4a58-9fb2-ab9b06efc8aa.gif)
+
 
 - 👀 I’m interested in Data Science👨‍🔬 Cloud Services🌥️ Building Web & Mobile Apps🌏📱
 - 🌱 I’m currently learning PL/SQL
