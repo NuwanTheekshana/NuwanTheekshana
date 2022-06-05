@@ -12,7 +12,7 @@
 - 👨‍🎓 I have completed HND and currently am a Software Engineer student at Cardiff Metropolitan University, UK.
 - 💞️ I’m looking to collaborate on any projects based on my interests I mentioned above 👆
 
-<h3>📫 How to reach me <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" height="32" style="display: block; opacity: 1;"> </h3>
+### 📫 How to reach me
 
 
 <!--- Social Media Sites --->
@@ -23,7 +23,35 @@
 [<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://img.icons8.com/fluent/240/000000/linkedin.png"/>][linkedin]
 
   
+  <br>
   
+ ### 🛠️ Languages and Tools
+
+<p>
+  <img alt="windows" width="30px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+  <img alt="macos" width="30px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
+  <img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/linux.png">
+  <br>
+  <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
+  <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
+ <br>
+  <img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+  <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
+  <img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
+  <img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+  <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
+  <img alt="Node.js" width="30px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+  <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
+  <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
+  <br>
+  <img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
+  <img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
+  <img alt="android-studio" width="30px" src="https://img.icons8.com/color/240/000000/android-studio--v3.png"/>	
+  <img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
+  <img alt="kotlin" width="30px" src="https://img.icons8.com/color/240/000000/kotlin.png"/>
+  <img alt="swift" width="30px" src="https://img.icons8.com/color/240/000000/swift.png"/>
+  <br>
+
 
 
 
