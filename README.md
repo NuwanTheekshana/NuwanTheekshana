@@ -2,8 +2,9 @@
   👋 Hi, I’m @NuwanTheekshana
 </h3>
 
+<img data-target="animated-image.replacedImage" alt="ezgif com-gif-maker" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/51254891/172062723-24fa70bd-0174-4a58-9fb2-ab9b06efc8aa.gif" style="display: block; opacity: 1;margin-left:auto;margin-right:auto;">
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/51254891/172062723-24fa70bd-0174-4a58-9fb2-ab9b06efc8aa.gif)
+
 
 
 - 👀 I’m interested in Data Science👨‍🔬 Cloud Services🌥️ Building Web & Mobile Apps🌏📱
