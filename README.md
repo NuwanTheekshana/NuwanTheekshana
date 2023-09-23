@@ -7,10 +7,10 @@
 
 
 
-- 👀 I’m interested in Data Science👨‍🔬 Cloud Services🌥️ Building Web & Mobile Apps🌏📱
-- 🌱 I’m currently learning PL/SQL
-- 👨‍🎓 I have completed HND and currently am a Software Engineer student at Cardiff Metropolitan University, UK.
-- 💞️ I’m looking to collaborate on any projects based on my interests I mentioned above 👆
+- 👀 I’m interested in Data Science👨‍🔬 Cloud Services🌥️ Building Web & Mobile Apps (using PHP/Laravel, .net core, React, Android studio) 🌏📱
+- 🌱 I’m currently learning Python, Tableau, Power BI, Azure Databricks
+- 👨‍🎓 Now I am Following the BCs in Software Engineering top-up degree at Cardiff Metropolitan University
+- 💞️ I’m looking to collaborate on any projects based on the interests I mentioned above 👆
 
 ### 📫 How to reach me
 
