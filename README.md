@@ -22,18 +22,6 @@
 Passionate about data science 👨‍🔬, cloud services 🌥️, and app development 📳, I'm continuously expanding my knowledge horizons and experimenting with new technologies.
 Currently exploring Machine Learning and AI, Cloud Computing, Data Engineering Pipelines and Full-Stack Development with a keen eye on leveraging emerging tools and methodologies to drive innovation.
 
-
-### 📫 How to reach me
-
-
-<!--- Social Media Sites --->
-
-<!--- Facebook --->
-[<img align="left" alt="Sabesan | Facebook" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-new.png"/>][facebook]
-<!--- Linkdin --->
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://img.icons8.com/fluent/240/000000/linkedin.png"/>][linkedin]
-
-  
   <br>
   
  ### 🛠️ Languages and Tools
@@ -65,6 +53,17 @@ Currently exploring Machine Learning and AI, Cloud Computing, Data Engineering P
 
 
 
+### 📫 How to reach me
+
+
+<!--- Social Media Sites --->
+
+<!--- Facebook --->
+[<img align="left" alt="Sabesan | Facebook" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-new.png"/>][facebook]
+<!--- Linkdin --->
+[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://img.icons8.com/fluent/240/000000/linkedin.png"/>][linkedin]
+
+  
 
 
 📈 Continuous Improvement:
