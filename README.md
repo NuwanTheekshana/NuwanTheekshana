@@ -2,7 +2,9 @@
   👋 Hi, My friends,
 </h3>
 
+<center>
 <img data-target="animated-image.replacedImage" alt="ezgif com-gif-maker" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/51254891/172062723-24fa70bd-0174-4a58-9fb2-ab9b06efc8aa.gif" style="display: block; opacity: 1;margin-left:auto;margin-right:auto;">
+</center>
 
 
 😀 I'm @NuwanTheekshana, a passionate data engineer on a journey to unlock the insights hidden within data. Currently pursuing 👨‍🎓 my BCs in Software Engineering top-up degree at Cardiff Metropolitan University, I'm dedicated to mastering the tools and technologies that drive innovation in the data ecosystem.
