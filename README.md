@@ -69,10 +69,10 @@ Currently exploring Machine Learning and AI, Cloud Computing, Data Engineering P
 
 📈 Continuous Improvement:
 
-      A firm believer in the power of lifelong learning, I'm committed to honing my skills, embracing challenges, and staying ahead of the curve in this ever-evolving tech landscape.
+A firm believer in the power of lifelong learning, I'm committed to honing my skills, embracing challenges, and staying ahead of the curve in this ever-evolving tech landscape.
 
 
-     🎇🎇 Thank you for stopping by my GitHub page! Together, let's embark on a journey fueled by curiosity, creativity, and a shared passion for technology.
+🎇🎇 Thank you for stopping by my GitHub page! Together, let's embark on a journey fueled by curiosity, creativity, and a shared passion for technology.
 
 
 
