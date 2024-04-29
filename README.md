@@ -5,8 +5,6 @@
 <img data-target="animated-image.replacedImage" alt="ezgif com-gif-maker" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/51254891/172062723-24fa70bd-0174-4a58-9fb2-ab9b06efc8aa.gif" style="display: block; opacity: 1;margin-left:auto;margin-right:auto;">
 
 
-
-
 - 👀 I’m interested in Data Science👨‍🔬 Cloud Services🌥️ Building Web & Mobile Apps (using PHP/Laravel, .net core, React, Android studio) 🌏📱
 - 🌱 I’m currently learning Python, Tableau, Power BI, Azure Databricks
 - 👨‍🎓 Now I am Following the BCs in Software Engineering top-up degree at Cardiff Metropolitan University
