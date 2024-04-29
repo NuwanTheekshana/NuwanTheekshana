@@ -11,16 +11,16 @@
 
 🔧 Skills & Expertise:
 
-    ✨Data Engineering: Proficient in Python, I harness its power for data wrangling and analysis, coupled with visualization prowess in Tableau and Power BI.
+✨Data Engineering: Proficient in Python, I harness its power for data wrangling and analysis, coupled with visualization prowess in Tableau and Power BI.
 
-    ✨Big Data: I delved into the realm of Azure Databricks, mastering the art of handling colossal datasets for actionable insights.
+✨Big Data: I delved into the realm of Azure Databricks, mastering the art of handling colossal datasets for actionable insights.
 
-    ✨Software Development: From crafting robust web applications with PHP/Laravel and .NET Core to building dynamic user experiences with React and Android Studio, I thrive on bringing ideas to life through code.
+✨Software Development: From crafting robust web applications with PHP/Laravel and .NET Core to building dynamic user experiences with React and Android Studio, I thrive on bringing ideas to life through code.
 
 📚 Learning Journey:
 
-      Passionate about data science 👨‍🔬, cloud services 🌥️, and app development 📳, I'm continuously expanding my knowledge horizons and experimenting with new technologies.
-      Currently exploring Machine Learning and AI, Cloud Computing, Data Engineering Pipelines and Full-Stack Development with a keen eye on leveraging emerging tools and methodologies to drive innovation.
+Passionate about data science 👨‍🔬, cloud services 🌥️, and app development 📳, I'm continuously expanding my knowledge horizons and experimenting with new technologies.
+Currently exploring Machine Learning and AI, Cloud Computing, Data Engineering Pipelines and Full-Stack Development with a keen eye on leveraging emerging tools and methodologies to drive innovation.
 
 
 ### 📫 How to reach me
