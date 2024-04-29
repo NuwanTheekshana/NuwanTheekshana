@@ -1,9 +1,24 @@
 <h3>
-  👋 Hi, I’m @NuwanTheekshana
+  👋 Hi, My friends,
 </h3>
 
 <img data-target="animated-image.replacedImage" alt="ezgif com-gif-maker" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/51254891/172062723-24fa70bd-0174-4a58-9fb2-ab9b06efc8aa.gif" style="display: block; opacity: 1;margin-left:auto;margin-right:auto;">
 
+
+😀 I'm @NuwanTheekshana, a passionate data engineer on a journey to unlock the insights hidden within data. Currently pursuing 👨‍🎓 my BCs in Software Engineering top-up degree at Cardiff Metropolitan University, I'm dedicated to mastering the tools and technologies that drive innovation in the data ecosystem.
+
+🔧 Skills & Expertise:
+
+    ✨Data Engineering: Proficient in Python, I harness its power for data wrangling and analysis, coupled with visualization prowess in Tableau and Power BI.
+
+    ✨Big Data: I delved into the realm of Azure Databricks, mastering the art of handling colossal datasets for actionable insights.
+
+    ✨Software Development: From crafting robust web applications with PHP/Laravel and .NET Core to building dynamic user experiences with React and Android Studio, I thrive on bringing ideas to life through code.
+
+📚 Learning Journey:
+
+      Passionate about data science 👨‍🔬, cloud services 🌥️, and app development 📳, I'm continuously expanding my knowledge horizons and experimenting with new technologies.
+      Currently exploring Machine Learning and AI, Cloud Computing, Data Engineering Pipelines and Full-Stack Development with a keen eye on leveraging emerging tools and methodologies to drive innovation.
 
 
 ### 📫 How to reach me
@@ -46,7 +61,17 @@
   <img alt="swift" width="30px" src="https://img.icons8.com/color/240/000000/swift.png"/>
   <br>
 
-  testing
+
+
+
+
+📈 Continuous Improvement:
+
+      A firm believer in the power of lifelong learning, I'm committed to honing my skills, embracing challenges, and staying ahead of the curve in this ever-evolving tech landscape.
+
+
+     🎇🎇 Thank you for stopping by my GitHub page! Together, let's embark on a journey fueled by curiosity, creativity, and a shared passion for technology.
+
 
 
 
