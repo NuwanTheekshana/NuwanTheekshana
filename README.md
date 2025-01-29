@@ -52,6 +52,16 @@ Currently exploring Machine Learning and AI, Cloud Computing, Data Engineering P
   <br>
 
 
+ ### 🏆 Github Status 🏆
+  
+<p align="center" >
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&layout=compact&hide_border=true&theme=merko" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&hide_border=true&layout=compact&theme=merko" />
+</a>
+  
+<br>
+
 
 ### 📫 How to reach me
 
