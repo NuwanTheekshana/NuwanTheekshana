@@ -63,6 +63,12 @@ Currently exploring Machine Learning and AI, Cloud Computing, Data Engineering P
 <br>
 
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NuwanTheekshana&row=1&column=6&theme=onedark" alt="NuwanTheekshana" /></a> </p><br>
+
+
+
+
+
 ### 📫 How to reach me
 
 
